@@ -209,19 +209,24 @@ try:
 except:
     print("Error!")
 #print(c)
-if((int(option))==c+1):
-    print("For more information refer the file just got opned.......")
-    os.startfile('file.txt')
-else:
-    try:
-        response=input("Was it helful...yes/no:")
-    except:
-        print("Error!")
-    if(str(response)=="yes" or str(response)=="y"):
-        print("you are welcome!!")
-        helpfuls[data1]=osg[int(option)]
-
+try:
+    if((int(option))==c+1):
+        print("For more information refer the file just got opned.......")
+        os.startfile('file.txt')
+    else:
+        try:
+            response=input("Was it helful...yes/no:")
+        except:
+            print("Error!")
+        if(str(response)=="yes" or str(response)=="y"):
+            print("you are welcome!!")
+            helpfuls[data1]=osg[int(option)]
+except:
+    print("Invalid input due to no value in the option! This is possible if you copy the query with newline at the end!!")
+    input()
 #print(line2line)
 with open('helpfuls.txt', 'w') as f:
     for key, value in helpfuls.items():
         f.write('%s:%s\n' % (key, value))
+print("press enter to exit!")
+input()
