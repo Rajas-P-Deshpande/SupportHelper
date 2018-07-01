@@ -1,0 +1,765 @@
+My computer does not turn on, what do I do now?
+
+First check the computer's power cord to make sure it is completely plugged into the wall socket. If you are using a plug strip, make sure it is completely plugged into the wall socket and that the power switch on the plug strip is turned on. Some plug strips also have a built in circuit breaker which usually looks like a black or red button near the power switch. Press the button to reset it and see if that solves the problem.
+
+What do I do when my computer crashes?
+
+There are many reasons why a computer may just stop working or "freeze". Most of the time there isn't much we can do about it, it is a fact of life that computer programs have become so complex that occasionally users will experience problems even when performing common tasks. When your computer no longer responds to keyboard commands your best bet is to restart the computer.
+
+What do I do if my hard disk fails to work?
+
+As with most computer errors, your first step is to shut down your computer and restart it. This will help you determine whether or not you actually have a hard disk problem. If the disk is severely damaged then your computer will probably fail to restart properly. If this is the case then contact MCWare IT Solutions, this is a job for the professionals.
+
+There is no display on the monitor, what do I do now?
+
+Make sure the monitor is on. If no power light (green or orange light) is seen on the monitor display try pressing the power button until it comes on. If your computer monitor was on and you stepped away from the computer and upon returning it was black, it's likely that the computer is asleep. Try moving your mouse, clicking the mouse buttons, and/or pressing any key (space bar) on the keyboard to wake it up. Make sure that the monitor is connected properly to the back of the computer.
+
+What do I do if the image on screen is distorted or skewed?
+
+You may receive a distorted image when the cable is loose or defective. Disconnect the video cable going from the back of the computer and verify that no pins are bent, burnt or broken. Once verified re-connect the monitor cable. If the refresh rate is not properly set the monitor may have a wavy or an appearance that lines are going down or across the monitor slowly or fast, this may also cause a flickering affect. A distorted image can be caused by magnetic or other types of interference. Verify no speakers, fans or other magnetic devices are close to the monitor.
+
+I get a 'no signal input' message, what do I do?
+
+Verify that the monitor is properly connected in the back of the monitor as well as to the back of the computer. If the monitor appears to be connected properly, verify that a cable is not loose by disconnecting all cables that can be disconnected in the back of the monitor (generally the data cable cannot be disconnected). Next, disconnect the data cable connected to the back of the computer and then reconnect the cable. When connecting the cable in the back of the computer ensure the cable connection is tight. Most Computers will also have screw ends that can be screwed in to hold the connector in place.
+
+There are black borders on my screen, what do I do?
+
+If the resolution was recently changed it is possible for the monitor to not auto adjust or shift to the correct size. If this occurs, the resolution can be changed back to the original setting or you can manually adjust the monitor. If a black border exists on the monitor it can generally be resolved by manually adjusting the horizontal or vertical width. Because each monitor is different, the method of adjusting this setting will vary; consult your monitor documentation.
+
+Why is my mouse acting erratically?
+
+Users who have an optical mechanical mouse (most common mouse for desktop computers) are likely experiencing erratic behaviour because the mouse is not clean or is dirty. If you've cleaned the mouse and continue to encounter issues and this mouse has worked in the past fine unfortunately your mouse is likely defective. One additional test that can be done to help determine if this is the case or not is to connect the mouse to another computer. Otherwise we suggest replacing the mouse.
+
+The wheel on my mouse isn't working properly, what do I do?
+
+If you're running any version of Microsoft Windows and are encountering issues with the mouse wheel, first attempt to adjust the mouse settings through the Mouse Properties window. This window can be accessed by opening the Control Panel and double-clicking the Mouse icon.
+
+How can I clean my keyboard?
+
+The keys on a keyboard are only clipped on, with a knife or other thin object, carefully pop the keys off, this will allow you to clean under the keys as well as cleaning the keys themselves (make sure you remember where they went!).
+
+How do I get into safe mode?
+
+To get into the Windows 7 / 10 Safe mode, as the computer is starting up press and hold your "F8 Key" which should bring up the "Windows Advanced Options Menu". Use your arrow keys to move to "Safe Mode" and press your Enter key.
+
+I can't delete a file because it is being used by Windows?
+
+Close all programs running on the computer and try again. If after closing all programs running on the computer you are still encountering the same issue when attempting to delete files, load the computer into Safe Mode and delete the files.
+
+How can I update my Microsoft Windows computer?
+
+If you are running Microsoft Windows 7, Windows 10, or a later version of Microsoft Windows, you are eligible to update Microsoft Windows, and in some cases, your computer hardware with the latest drivers through Microsoft's update site, visit http://windowsupdate.microsoft.com. In most cases your computer should be set to automatically update when a new update becomes available.
+
+Is it safe to turn off a Windows computer without doing a shut down?
+
+Users should not simply press the power button or restart the computer while Windows is still running unless there is an issue with the computer. Microsoft has included the shut down feature because it enables a computer to go through all the necessary steps that are required before turning off the computer. In fact many versions of Microsoft Windows will check the computer for any problems if the computer is not shut down properly.
+
+How can I recover a file from the recycle bin?
+
+Double click the recycle bin icon on your desktop, here you will see all of the files within your bin. Select the files you wish to recover, right click and choose restore.
+
+I am unable to send or receive email?
+
+Verify that your computer is able to see the Internet and/or other computers to ensure that your computer is not encountering a connection issue, which would be causing your e-mail issue. Ensure that your Internet e-mail server or your Network e-mail server is not encountering issues by contacting either your Internet Service Provider or your Network administrator.
+
+I can't receive any email attachments?
+
+If the e-mail box is full of other e-mail messages, and/or your storage space is only a few megabytes, it's possible that the attachment being sent cannot be received. Often if this problem is occurring the person sending the e-mail should get a response back from your e-mail server indicating that your mailbox is full and/or has exceeded its allocated size. Because computer viruses and other malware are best distributed through e-mail, many e-mail service providers, companies, and e-mail programs prevent certain types of file extensions from being distributed or received through e-mail. For example, Microsoft Outlook protect its users by automatically disabling certain file extension types from being received in e-mail.
+
+Are spaces allowed in email addresses?
+
+Just like an Internet URL no spaces are allowed in an e-mail address. However, names can be broken up using a period; for example, John Smith may have an e-mail address: john.smith@example.com or john.s@example.com because no spaces are allowed in the e-mail address.
+
+My printer is printing smudged/distorted pages?
+
+When printing on untraditional paper your printer may experience smudges, un-even or crooked text, and/or text that runs off the edges of the paper. Your printer may be printing fuzzy, blurry, and/or other faint text because of dirty print heads. All modern printers have some type of printer cleaning, self-test, and/or diagnose mode that can be performed to check and clean the printers print heads and other internal equipment used to print.
+
+How do I fix a paper jam?
+
+Turn off the printer. Inspect the location or tray the printed paper ejects to. If the stuck paper is visible manually remove it. Remove all paper trays and any paper that may be stuck between the tray and the printer. If the stuck paper is visible manually remove it. Open the printer door that allows you access to the printer ink cartridges or toner and look for any stuck paper. If the stuck paper is visible manually remove it. Turn the printer back on.
+
+I lost my printer installation disk, how can I install my printer?
+
+Thankfully a missing printer installation disk or disc is not the end of the world and will not require you to wait until a new diskette or CD can be sent to you. Today all printer and other hardware manufacturers are providing downloads on the Internet to their software programs and drivers that are included with their products.
+
+I can't connect to my network drive anymore?
+
+Verify that the network cable is properly connected to the back of the computer. In addition, when checking the connection of the network cable, ensure that the LED's on the network are properly illuminated. For example, a network card with a solid green LED or light usually indicates that the card is either connected or receiving a signal. Note: generally, when the green light is flashing, this is an indication of data being sent or received.
+
+How do I map a network drive?
+
+Open Microsoft Explorer. From Explorer, click the Tools drop down menu and click the option "Map Network Drive." Specify the network drive or network computer as the folder. If the computer's name was hope, to map to that computer, type \\hope If you wished to map to a shared folder on the hope computer such as a mp3 folder, you would type \\hope\mp3. If a different username or login is required to connect to this computer or drive it must be specified in this window before clicking the finish.
+
+How do I determine my computer's name?
+
+Right-click My Computer. Click Properties. In the Properties window, click the Computer Name tab. Within this tab you'll be able to see the full computer name, workgroup and also a description. If you wish to change the name or workgroup, click the Change button.
+
+What is a computer virus?
+
+A computer virus is a software program that has been intentionally created to cause a user grief, spread to other computers, or destroy data on an individual's computer. To help prevent a computer from becoming infected by a virus, software developers have developed anti virus programs that stay active on the computer helping to protect it. It is important to realize that many computers do not come pre-loaded with these already installed and that if computers do come with these programs, the programs may expire within 90 days.
+
+Does Windows come with a virus protection program?
+
+All versions of Microsoft Windows do not come pre-installed with a virus protection program. This includes: Microsoft Windows 7 and Windows 10.
+
+Can a virus damage computer hardware?
+
+No. Computer viruses are software code designed to spread to computer files and other computers, delete files, and cause other problems with the data on the computer. So if you're experiencing an issue with a hardware device such as your printer, video card, sound card, etc. it is not due to a virus.
+
+If I format or erase my hard drive will it remove a virus?
+
+If your computer is infected with a virus formatting or erasing the hard disk drive and starting over will almost always remove any type of virus. However, keep in mind if backups have been made that contain the virus, other media or drives connected to the computer have a virus, your computer is connected to another computer on a network with a virus, and/or the virus is stored on some other type of software you use with your computer it can become re-infected if not properly protected.
+
+How do I delete Internet cookies?
+
+Microsoft Internet Explorer users can go to 'Tools' (or the little cog icon in the top left), then go to 'Safety' and choose 'Delete browsing history...', you can then choose to delete your Internet cookies. In Google Chrome, go to 'More Tools' and choose 'Clear browsing data...'. Firefox users can go to 'History', then choose 'Clear recent history...'.
+
+My Computer freezes or is behaving strangely
+
+Try restarting your computer. Many basic problems can be resolved easily and quickly this way.
+
+Press the Ctrl & Alt & Del keys on your keyboard together at the same time. This should bring up a menu that will allow you to run Task Manager. In Task Manager, switch to the Applications tab. Highlight any programs with the status 'Not Responding' and choose End Task. You may be asked to confirm if you want to end the unresponsive program, so choose Yes. Do this for all programs that are not responding.
+
+If all else fails and you cannot shutdown/restart your computer, then hold down the power button on the machine until it forcibly turns off. Wait a few seconds and then turn it back on again.
+
+
+
+My Computer doesn’t power up
+
+Check that all the cables are securely plugged into the back of the machine and the monitor.
+
+Check that the power cables are plugged into a power socket and the socket has been turned on.
+
+Try using a different power socket or, if you are using a power extension strip, plug the power cable directly into a power socket in the wall.
+
+Replace the power cable with one that you know works.
+
+Check if there are any lights on at the front of the machine:
+
+If there are lights on the machine but not the monitor, then it's probably a monitor issue.
+
+If there are lights on the monitor but not the machine, then it's probably a machine issue.
+
+If there are no lights on anything, then it may be possible there is a local power cut.
+
+With laptops, try removing the power cable and the battery. Hold down the power button for about ten seconds, and then plug the battery and power cable in again. Press the power button to see if it switches on.
+
+
+
+Nothing appears on Monitor
+
+Make sure both the computer and monitor are on.
+
+Make sure the monitor is securely plugged into the computer.
+
+Make sure the power cable is firmly plugged into the monitor.
+
+Some computers have multiple display ports, so make sure you have plugged the monitor into the correct one. Try each one in turn, switching the monitor off then on in between moves.
+
+Most monitors have a status window displayed when you turn it on. Check if you can see this status window when you press the power button on the monitor. You can also try this with the menu button on the monitor, which should bring up an options menu on the screen. This shows the screen is working ok, so it may be an issue with the video cable from the monitor or the machine itself.
+
+Check the brightness & contrast levels of the monitor via the menu button, to make sure it has not been set too dark.
+
+Move the mouse and press any key on the keyboard to make sure the screensaver hasn't activated or that the computer hasn't gone into standby/hibernation mode.
+
+
+
+
+
+Keyboard or mouse doesn’t work
+
+Make sure the keyboard/mouse is firmly plugged into the back of the computer
+
+Try unplugging one or both, and then reinserting it into the back of the computer
+
+Try plugging your USB keyboard/mouse into a different USB socket
+
+Replace the keyboard/mouse with one that you know works
+
+If you cannot see any lights on your keyboard when you press the Caps Lock or Num Lock key, it may be a dead keyboard
+
+Make sure there is no dirt or fluff clogging up either the optical laser or roller ball on the underside of your mouse. It may require a clean
+
+If you are using a wireless keyboard/mouse, try pressing the reset button on the device or replace the batteries.
+PC Won't Boot Into Windows
+
+Try Safe Mode First
+When your PC just won't boot into Windows at all, you'll probably want to start off with Safe Mode—use the F8 key right when the system starts up to access the menu and see if Windows will boot into Safe Mode. If you're able to get into Windows, the problem is likely something that would load only when you boot normally—graphics card drivers, junk applications, or perhaps some spyware applications.
+
+Even Safe Mode Doesn't Work
+If you can't even get into Safe Mode, you should use the Startup Repair tools, which can be accessed from the Advanced options in the Safe Mode menu; you can pull out your system repair disc, or your Windows installation disc and use the Repair option. If you're having a bootloader problem that says "bootmgr is missing", you can use the command prompt from an installation CD and use the bootrec /fixboot command.
+
+
+
+PC Crashing or Blue Screening
+
+If you're using Windows 7 or later and you're getting a blue screen of death, chances are very high that the problem is either driver or hardware related—contrary to legend, Windows just doesn't crash like that very much unless the problem is tied to hardware somehow.
+
+Once you've identified the driver causing the problem, try and head into Safe Mode and uninstall or upgrade the driver causing the problem—sometimes the driver won't be visible, so you'll need to use a command-line trick to show hidden devices in Device Manager. If you're doing a bunch of work in Safe Mode, sometimes it's helpful to force Windows to load into Safe Mode without using the F8 key every time.
+
+No Luck? Recover Files and Reinstall
+If you simply can't get anything else to work and you don't have a full backup, your best bet is to pull out an Ubuntu Live CD and back up files from your PC, and then start the process of reinstalling Windows again. If you're using the native Windows backup tools, you can restore your system from an image backup, or use the standard backup and restore process.
+
+
+
+PC Is Running Slowly
+
+Check Task Manager
+The first thing that every geek is going to do when a computer is running slowly is open up Task Manager, or Process Explorer (if you've already got it installed) to see what process is taking up the most CPU or memory—that's generally the culprit. While you're in there, it's a good idea to look for other resource-wasting apps that we can kill.
+
+Uninstall Crapware
+Now that we've killed the application that's currently killing the CPU, it's time to start getting rid of applications that we don't need. You can use Revo Uninstaller and the PC Decrapifier to clean up applications without leaving extra traces.
+
+Clean Up the PC
+Cleaning up your PC is really quite easy. You can start by running Disk Cleanup, but if you really want to get the job done, grab yourself a copy of CCleaner and run through a cleaning session. While you're at it, you can set up CCleaner to run on a schedule to keep the PC clean on a regular basis.
+
+Scan for Viruses and Spyware
+It's a good idea to run a system scan when your PC is running slower than normal and you've already determined that it's not a runaway application. We think the free Microsoft Security Essentials app is the perfect tool for the job.
+
+Use the Reliability Monitor
+This under-utilized tool is an excellent way to diagnose problems and figure out what might have caused your system problems—it will show you a full history of system crashes, application problems, and even Windows Updates, so you can track down what changed on your system right before your system started running slow. Just type in reliability into the Start Menu search box, and you'll be able to see everything, and even drill down into specific errors to see more details.
+
+Use the Advanced Tools in Windows 7
+Windows 7 has quite a number of useful tools to troubleshoot performance problems, but they're buried in Control Panel where you might not think to look. Just head to Performance Information and Tools –> Advanced tools and you'll see a list of performance issues along with suggested fixes for the problems.
+
+Trim Down Startup Apps to Speed Up Boot Times
+This applies both when your PC takes forever to boot and when you've got a glut of applications running away in your system tray that you don't need; it's time to trim down your startup applications. You can use the built-in MS Config utility or any number of tweaking applications, but you might want to take a look at Soluto, which not only helps you disable startup applications, but it shows you exactly which ones are affecting your boot times the most.
+
+
+
+Internet Is Slow or Not Loading
+
+Pull Out the Ping Command
+If you're having problems connecting to the internet, you should first make sure that you are really connected—most of the time you can pull out a command prompt (hit the Windows key, type cmd, hit Enter) and type in a ping command like ping yahoo.com to see if you're getting any response.
+
+Disable and Re-Enable Your Connection
+If you're not getting a response, you can try disabling and re-enabling your wireless connection, which solves more problems than it really should. If that doesn't work, use the Windows network troubleshooter by right-clicking your wireless icon, and follow through the steps. Windows will disable and re-enable the adapter again, and wipe the DNS caches as well. If you're still having problems, there's a good chance your internet connection is just down.
+
+Slow Response Times
+Sometimes the problem isn't connecting to the internet, but slow response times while you're browsing—or maybe your browser is simply hanging. If you're using Internet Explorer, you can reset all your settings to fix problems; if you're using Firefox you can follow this guide to troubleshoot problems or just completely restore the default settings.
+
+Web Site Not Loading
+If the problem is a specific web site not loading, you can check downforeveryoneorjustme.com to see if you're the only one having the issue with the web site—or you can often do a quick search on Twitter to see if other people are complaining as well.
+
+
+
+Windows Explorer Is Hanging
+
+If you're having problems loading up Windows Explorer and browsing your file system, the problem is almost always a shell extension that shouldn't be installed, or some shell extensions that are conflicting with each other. For example, the shell extensions for Dropbox and TortoiseSVN tend to cause problems when you put your code into your Dropbox folder, causing hanging and generally slow file browsing.
+
+Your best bet is to grab a copy of ShellExView and start disabling third-party shell extensions, or uninstalling Windows Explorer plug-ins that you don't actually need. You can also use this tool in combination with ShellMenuView to clean up your messy Explorer context menu.
+Troubleshooting Hardware Problems
+
+Basic troubleshooting guide
+
+Monitor
+
+Printer
+
+CD
+
+Keyboard
+
+Mouse
+
+Networking
+
+Video/Screen
+
+Sound
+
+Startup
+
+Hard Drive
+
+Troubleshooting Questions
+
+When your computer is not running properly the first course of action is to do a proper shut down, and restart. Click on the Start button, select "shut down". Leave the PC off for 1 to 2 minutes. Turn the PC back on again. If the PC is frozen and you cannot shut it down, hold the power button on the CPU for 30-40 seconds until it shuts down.
+
+An Unresponsive PC
+
+First check the cable. Unplug it from the computer and the outlet. Re-plug in both sides and try booting it again.
+
+Check the wall outlet. Plug something else into the outlet and see if it works. If you have a surge protector try a different outlet.
+
+Turn the system off and wait 30 seconds and then try again.
+
+Reach behind the machine and see if you feel air blowing out of the power supply. If you do, then you know the machine is getting some power.
+
+Look at the keyboard for the indicator lights being lit up as the machine boots.
+
+Sometimes the monitor has something to do with the system acting up. Unplug the power cord from the monitor and the wall and re-plug it. Unplug the cable from the computer to the monitor and re-plug it into the monitor. Try rebooting.
+
+Listen to identify a beeping series if there is one to report it to the technical help.
+
+If you have a tower computer you should see indicator lights just above the power button on the PC, if you see any numbers lit up report this to the Help Desk.
+
+Turn in all comments to the Help Desk.
+
+Monitor Troubleshooting
+
+Symptom
+
+The monitor screen is black
+
+Diagnosis
+
+Check to see if the computer turned on.
+
+Is the computer turned on? There is a light on the CPU. If the computer is on, it will be lit.
+
+Check to see if the monitor getting power.
+
+If no lights appear on the front of the monitor at all, it is not getting any power from the power source. Check to see if ALL plugs are secure.
+
+Power cord from the computer to the power strip.
+
+Power strip to the wall socket.
+
+Check to see if the Power Strip turned on.
+
+There is a light on the strip. If the strip is on, the indictor light will be on.
+
+Check to see if the monitor getting a signal from the computer.
+
+There is a light on the monitor. If the monitor is on, it will be lit. If it is turned on, check the contrast and brightness buttons to see if they have been tampered with.
+
+A green light on the front of the monitor would indicate that it is getting a signal from the computer.
+
+An orange light would indicate there is not signal from the computer. Make sure the computer is on and you see lights on the front of it. Check the cable that runs from the monitor to the computer to see if it has worked loose.
+
+Check to see if the brightness has been turned entirely down.
+
+Make sure you check the brightness and contrast buttons or settings on the monitor.
+
+Check to see if the computer in Power Save or Sleep mode.
+
+Move the mouse or press any key on the keyboard to see if the computer will "wake-up."
+
+Check to see if all peripherals plugged in.
+
+Verify that all cables and cords leading in to and out of your computer to insure they are all in tight and not disconnected.
+
+Secure the following to the computer:
+
+Monitor
+
+Mouse
+
+Keyboard
+
+Printer
+
+Network cable to computer and wall (Blue)
+
+Check to see if the monitor goes black just as Windows is loaded.
+
+This could indicate a problem with the video card driver or settings in Windows. Since you can't see to get to the settings, this is difficult to fix without a visit from technical support.
+
+Symptom
+
+The screen is not synchronized
+
+Diagnosis
+
+Check to make sure the signal cable is firmly connected in the socket.
+
+Check that the output level matches the input level of your computer.
+
+Make sure the signal timing of the computer system is within the specification of the monitor.
+
+Symptom
+
+The screen is too bright or too dark
+
+Diagnosis
+
+Check if the Brightness or contrast control is at the appropriate position, not at the maximum or minimum.
+
+Check if the specified voltage is applied
+
+Check if the signal timing of the computer system is within the specification of the monitor.
+
+Especially, check the horizontal frequency.
+
+Symptom
+
+The screen is shaking
+
+Diagnosis
+
+Move all objects that emit a magnetic field, such as a motor or transformer, away from the monitor.
+
+Check if the specified voltage is applied.
+
+Check if the signal timing of the computer system is within the specification of the monitor.
+
+Printer Troubleshooting
+
+Symptom
+
+The Printer is not printing
+
+Diagnosis
+
+Check to see if the printer getting power
+
+If there are no lights or no display on the front of the printer, the printer is not getting electricity or power. Check to make sure the power cord is plugged in both to the wall or power strip and to the back of the printer. Wiggle the power cord where it plugs into the back of the printer to make sure it is not loose. Some models of desk jets have a two part power cord. In this case, check along the length of the power cord to make sure both parts are plugged in together.
+
+If the printer is still not getting power, plug the power cord into a different outlet on the power strip. If this does not work, try plugging the printer into a different wall outlet.
+
+Check to see if you can print a Windows test page
+
+The windows test page is a basic communication test between your computer and the printer. To print a Windows test page:
+
+Left mouse-click on the Start button.
+
+Go to Settings and then select Printers. Inside the printer window, you should see a small printer icon with the name of printer you are trying to print to.
+
+Place your mouse arrow on the small printer icon and right mouse-click. A small gray window should appear and the last choice in the box is Properties.
+
+Left mouse-click on Properties. A printer window with several tabs should appear.
+
+On the General tab, there is a Print Test Page button in the lower right corner. Left mouse-click on the button. You may click on the "Yes" button on your screen, but the real question is: Did anything print from the printer?
+
+If the answer is no, please call or e-mail the Help Desk at x1112.
+
+If you can print a Windows test page, try to print from a different program. If the document does not print from that program, the printing problem has to do with that program.
+
+Check to see if there is paper in printer. Is their a paper jam?
+
+If the printer has paper in the paper tray, the paper may be jammed or not feeding properly. Take the paper out of the paper tray and check to see that the top piece of paper is not crinkled or bent.
+
+If the printer is a DeskJet, lift open the front cover and look to see if a piece of paper is halfway fed through. If it is, remove paper gently from the top and close.
+
+If the printer is a LaserJet, open the top of the printer and check for paper underneath the toner cartridge. If there is paper there, gently remove it, and replace the toner cartridge.
+
+Check to see if the computer getting a signal from the printer.
+
+The computer and the printer must be communicating before the printer will print. When you send a document to print, does a small printer appear on the Windows taskbar (down by the time)? If this printer appears on the taskbar, the computer thinks the printer is receiving communication. At this point, the printer should blink lights (if a DeskJet) or says "printing" or "receiving" on the display (if a laser printer). If the printer is not receiving the communication from the computer, try restarting the computer. After you have logged in, see if you can print now.
+
+Check to see if Printer offline or Paused.
+
+If the printer is off-line or paused, the print jobs will just stack up in the print queue but nothing prints.
+
+Left mouse-click on the Start button
+
+Go to Settings
+
+Then choose Printers
+
+The Printer folder should open and display the printers installed on this PC.
+
+Place your mouse arrow on the printer you are checking and right mouse click. A dialog box should open.
+
+If the printer is paused or offline you will see a black check mark next to the words "Pause Printing" or "Printer Offline."
+
+Left mouse-click on the black check mark and see if you can "uncheck" it.
+
+If the check mark will not go away, try restarting the PC (Start – Shutdown – Restart).
+
+Then repeat steps 1 through 7 again.
+
+If the printer is still not printing, please contact the Help Desk at x1112
+
+Check to see if there multiple jobs in the Print queue.
+
+If the printer is a local printer (i.e., there is a cable running directly from the printer to the computer you are printing from), power off the PC, power off the printer, count to 10, and then turn both the printer and the computer back on again. Sometimes this will allow the printer to start printing again.
+
+Symptom
+
+The printer is printing streaks on the page
+
+Diagnosis
+
+If the printer is a DeskJet, go to the HP DeskJet Utilities menu in the Program menu. Choose the "Clean the Print Cartridges" option. If this does not work, try replacing the ink cartridge. If the new cartridge does not help the streaking, place the cartridge back inside the original packaging and save it until the other cartridge has been used up. This just tests to see if the ink cartridge is defective.
+
+If the printer is a LaserJet, try changing the toner cartridge. If the new toner cartridge does not improve the streaking problem, return old cartridge to the printer and place the new toner cartridge back in its original packaging for later use.
+
+If neither option works, please visit the printer maintenance vendor list to schedule printer service.
+
+The printer in spite of everything is not printing?
+
+Turn the PC off. If the printer is a local printer, i.e., has a direct cable hookup to the PC, turn the printer off also so both the PC and printer are turned off at the same time. After 30 seconds, turn the PC and the printer back on again. Try to print a Windows test page. If the printer still does not print, please contact the Help Desk x1112.
+
+CD Troubleshooting
+
+Symptom
+
+The computer won't read the CD
+
+Diagnosis
+
+Check to see if the label side of the CD is faced up
+
+Check to see if the CD be read from the CD Rom drive of another computer
+
+If the CD can be read from another computer's CD ROM drive, the CD ROM drive may be bad and need to be replaced.
+
+The CD ROM drive may also have dirt or debris inside. Try cleaning the drive with a standard audio CD player cleaning kit. After cleaning the drive, try to read the CD again.
+
+Check to see if the CD scratched or dirty
+
+CD, CDR, or CDRW drives read discs by shining a laser onto the CD and then measuring the amount of light that gets reflected back. Most of the time a small scratch won't matter.
+
+If the CD is dirty, you can clean the CD using a CD Cleaning kit or you can also use a mild detergent, like dish soap, and warm water, wash the CD and dry with a soft cloth. Once the CD is fully dry, insert the CD into the CD ROM drive and try to read it.
+
+If the CD is not dirty, you can try to clean the CD Rom drive using a professional CD cleaner kit
+
+Check to see if the CD is a CD-R or CD-RW that was burned
+
+A number of older CD drives cannot read some types of CD-R CDs. Try using a different CD-R disk with a different dye under the reflective layer. You will have noticed that some CD-R disks are blue, gold, green, or even silver colored. Some of the colors have a lower light reflectivity value and an older CD Rom drive may have difficulty reading that brand of CD-R media.
+
+Keyboard Troubleshooting
+
+
+
+Symptom
+
+Keyboard doesn't respond and gives off a constant beeping noise when booting up
+
+Diagnosis
+
+Check the plug to make sure it's connected securely.
+
+Try unplugging it and re-plugging it again. If there is no response, check the indicator light on the keyboard. Is it on? Do the lights respond when you press the caps lock or the num lock key? If not, maybe your keyboard is broken.
+
+Check to see if there a key stuck
+
+Gently pry off the cover and clean it with alcohol. Make sure it is not connected to your machine when you are cleaning it. The space bar frequently comes off track. Gently pry it off, noting which way the bar lies in your particular keyboard so you can replace it properly.
+
+Mouse Troubleshooting
+
+The mouse is not working
+
+
+
+Symptom
+
+The mouse is acting erratic
+
+Diagnosis
+
+Reboot the computer and see if that corrects the problem. If not check to see if there is insufficient memory.
+
+Symptom
+
+The mouse will only move one way, either vertically or horizontally
+
+Diagnosis
+
+Clean the mouse
+
+Shut down your machine and unplug your mouse from the computer. Open the underside of the mouse and remove the ball. If the ball is a rubber ball, do not clean it with alcohol. Clean it with a soft cloth. There should be no lubricant placed on a mouse ball. Clean the roller in the body of the mouse with a cotton swab that is slightly damp with alcohol. Replace the ball when the rollers are dry and replace the bottom portion.
+
+Networking Troubleshooting
+
+Symptom
+
+My PC is not working on the Network
+
+Diagnosis
+
+Programs that require network drives to run or operate properly: SIS, HR, FRS, PROD – ALPHA, Network Shares, and some school applications. You would also need a network connection to print to the network laser or color laser printers within CCRI.
+
+Symptom
+
+Message "No Domain Server Available" or there are no Network drives (like the S drive).
+
+Diagnosis
+
+
+
+Video/Screen Troubleshooting
+
+Symptom
+
+The Monitor is Black
+
+Diagnosis
+
+
+
+Symptom
+
+The desktop Icons are too IMMENSE or too undersized
+
+Diagnosis
+
+Usually this is due to the Display Settings. The standard video setting for most College software is 800x600. To check the video display settings:
+
+Left mouse-click on the Start button (lower left-hand corner of the screen).
+
+Go to Settings. Go to Control Panel.
+
+Once in the Control Panel, look for the Display icon.
+
+Double left mouse-click on the Display icon.
+
+In the Display Properties box, left mouse-click on the settings tab.
+
+
+
+Place your mouse arrow on the slider, hold down the left-mouse button, and move the arrow until the number changes to the desired setting.
+
+640x480 screen resolution has fewer pixels so the screen appears larger. 1024x768 screen resolution has more pixels in the same screen area so the appears smaller.
+
+Symptom
+
+The Screen goes black if not used for a few minutes
+
+Diagnosis
+
+The power saver or energy saver features may be turned on. To correct this problem, you can turn off the feature.
+
+Left mouse-click on the Start button (lower left-hand corner of the screen).
+
+Go to Settings. Go to Control Panel.
+
+Once in the Control Panel, look for the Display icon.
+
+Double left mouse-click on the Display icon.
+
+Left mouse-click on the Screen Saver tab.
+
+Left mouse-click on the Power or Settings button (depends on your version of Windows) in the lower left corner.
+
+On the Power schemes tab, you should see where it says "Turn off monitor:" with an amount of time next to it. Left mouse-click on the drop-down arrow.
+
+Change the time to "Never."
+
+Left mouse-click on the Apply button in the lower right-hand corner.
+
+Left mouse-click on the OK button.
+
+Left mouse-click on the next OK button.
+
+Sound Troubleshooting
+
+Symptom
+
+The computer has no sound
+
+Diagnosis
+
+
+
+Symptom
+
+No sound is heard from audio (music) CDs
+
+Diagnosis
+
+Look for the Volume icon in the system tray in the lower right-hand corner of the Windows desktop.
+
+Place the mouse arrow on this icon.
+
+Double left-mouse click. The Volume Control dialog box should appear on the computer screen.
+
+
+
+Place the mouse arrow on the "slider" button and slide the arrow up to increase or down to decrease the volume.
+
+If "Mute all" check box is checked, there will be no sound. To enable the sound again, uncheck the box.
+
+Ensure the speakers are properly connected to the audio card’s output connector and turned on.
+
+Symptom
+
+There is no volume icon in the lower right corner
+
+Diagnosis
+
+To place the volume icon in the system tray in the lower right of the desktop:
+
+Place the mouse arrow on the Start button in the lower left corner.
+
+Left mouse-click on Settings.
+
+Left mouse-click on the Control Panel
+
+Place the mouse arrow on the Multimedia icon. 
+(In Windows XP, look for the Sounds and Audio Devices icon .)
+
+Double-left mouse click.
+
+Left mouse-click on the Audio file tab.
+
+Towards the bottom look for the check box that reads "Show volume control on taskbar."
+
+Make sure the box is checked to activate the icon.
+
+Startup Troubleshooting
+
+If your computer is making noise or attempting to start up, but there is no video or no display on the monitor.
+
+Symptom
+
+No power lights on the monitor/computer
+
+Diagnosis
+
+
+
+Hard Drive Troubleshooting
+
+Symptom
+
+The cursor is stuck on the hourglass
+
+Diagnosis
+
+Open Task Manager
+
+Simultaneously press [Ctrl] [Alt] [Delete]. You will see a list of all tasks (programs) currently running. You may notice one program has "Not Responding" instead of "Running" listed next to it. Select this task and click the End Task button.
+
+Another dialog box will open stating that the program is not responding. Choose End Now to close the program.
+
+Reboot your computer (Warm Boot)
+
+Resetting a computer that is already turned on:
+
+Press [Ctrl] [Alt] [Delete] once to open the Task Manager.
+
+Press [Ctrl] [Alt] [Delete] again to restart the computer.
+
+Shut down your computer (Cold Boot)
+
+Start-up of a computer from a powered-down state. 
+If you restart your computer and the problem isn’t resolved, make an attempt to completely shut down the computer by pressing the power button. Let it set for 15-30 seconds then restart the computer.
+
+Symptom
+
+You have run out of disk space on your computer. Music files, movies, digital pictures, and other big data files can fill up your hard drive.
+
+Diagnosis
+
+To check for disk space:
+
+Open My Computer. Right click on the C: drive and select Properties from the shortcut menu. A pie chart will appear telling you the used and free space.
+
+Try running the Disk Cleanup Wizard. This utility can tell you whether you are running out of room and help you clear away some space. Click the Start button and choose Programs | Accessories | System Tools | Disk Cleanup. Choose the disk to clean up (C: ) and let the wizard do the work.
+
+Troubleshooting Questions
+
+When did your computer last work properly?
+
+If your computer was working satisfactory yesterday or the last time you were logged on but are now having trouble, try to identify everything that has changed recently.
+
+Did the trouble begin shortly after you installed:
+
+New program?
+
+New piece of hardware or updated a device driver?
+
+Do you receive a consistent error message?
+
+If so, write down the exact error message that appears on the screen, either write it down word for word.
+
+Can you reproduce the trouble with specific steps?
+
+If you can identify a specific set of actions that consistently cause the trouble to occur, the Technical Support Specialist and outline your steps to determine the problem. Write down the precise sequence of actions.
+
+Does the problem only occur after you have been using your computer for a while?
+
+If your computer runs fine first thing in the morning but crashes after several hours it could be heat related problems.
